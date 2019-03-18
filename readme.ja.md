@@ -13,22 +13,25 @@
 # 職務経歴
 
 * 2018/01-2018/04: システム開発および結合テスト
-    * 利用言語/ツール: Python, OpenCV, TensorFlow, Groovy
-* 2015/10-2017/12: 写真の画質改善に関する共同研究開発
-    * 利用言語/ツール: C++, Python, OpenCV, MATLAB, Halide
-* 2017/04-2017/06: Android Camera HAL に関するテスト
-    * 利用言語/ツール: VMWare, VirtualBox, Python, Java
-* 2016/06-2017/03: Computer Vision 応用の検討
-    * 利用言語/ツール: C++, Python
-* 2015/04-2015/09: 非公開
-* 2014/10-2015/03: 高位合成対象アルゴリズムの検証
-    * 利用言語/ツール: C, Verilog, Xilinx ISE
-* 2014/04-2014/09: アプリケーションプログラム移植
-    * 利用言語/ツール: C++ Builder, Visual C++
+    * 内容: NDA
+    * 環境: Python, OpenCV, TensorFlow, Groovy
+* 2015/10-2017/12: 研究開発
+    * 内容: 写真の画質改善、Computer Vision 応用
+    * 環境: C++, Python, OpenCV, MATLAB, Halide
+* 2017/04-2017/06: テスト
+    * 内容: Android Camera HAL API
+    * 環境: VMWare, VirtualBox, Python, Java (Dalvik)
+* 2014/10-2015/03: テスト
+    * 内容: 高位合成
+    * 環境: C, Verilog, Xilinx ISE
+* 2014/04-2014/09: 移植作業
+    * 内容: Windows アプリケーション
+    * 環境: C++ Builder, Visual C++
 
 # 活動
 
 * 2014-現在: コードアカデミー高等学校 メンター
+* 2018/09: PyCon JP 2018 スタッフ
 * 2017/09: PyCon JP 2017 スタッフ
 * 2015/10: PyCon JP 2015 スタッフ
 
