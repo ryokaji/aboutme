@@ -12,6 +12,12 @@
 
 # Professional Experience
 
+* 2018/12-2019/3:
+    * Environment: Python (Django), AWS
+* 2018/07-2018/11:
+    * Environment: C# (WPF)
+* 2018/06:
+    * Environment: Java (Dalvik)
 * 2018/Jan-2018/Apr: Development, Integration testing
     * Brief: NDA
     * Environment: Python, OpenCV, TensorFlow, Groovy
@@ -44,4 +50,5 @@
 # Education
 
 * 2010/04-2012/03: Tokyo Metropolitan College of Industrial Technology, Tokyo, Regular Course
+    * note; that is equivalent to associate degree
 * 2012/04-2015/03: Tokyo Metropolitan College of Industrial Technology, Tokyo, Advanced Course

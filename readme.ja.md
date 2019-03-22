@@ -12,6 +12,12 @@
 
 # 職務経歴
 
+* 2018/12-2019/3:
+    * 環境: Python (Django), AWS
+* 2018/07-2018/11:
+    * 環境: C# (WPF)
+* 2018/06:
+    * 環境: Java (Dalvik)
 * 2018/01-2018/04: システム開発および結合テスト
     * 内容: NDA
     * 環境: Python, OpenCV, TensorFlow, Groovy
